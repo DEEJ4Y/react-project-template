@@ -4,7 +4,7 @@ A minimal React project template.
 
 ## How to use
 
-[Download]() the project files.
+[Download](https://github.com/DEEJ4Y/react-template/archive/master.zip) the project files.
 
 Copy the files into your project folder.
 
@@ -20,7 +20,7 @@ Run npm install, to fetch all the required node modules:
 npm install
 ```
 
-Run npm start to start up your local server:
+Run npm start, to start up your local server:
 
 ```shell
 npm start
