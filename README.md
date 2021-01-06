@@ -2,7 +2,7 @@
 
 A minimal React project template.
 
-## How to use
+## Getting Started
 
 ### 1. Getting the project files
 
